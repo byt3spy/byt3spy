@@ -1,4 +1,4 @@
-<img src="(https://blog.exchange.art/content/images/size/w1000/2023/05/2de9f837-1b77-44ce-9295-db722e22d666.gif)"  height="450"  ></img>
+<img src="Champ.gif"></img>
 # 💫 About Me:
 🔭 I’m currently working on Meta Project<br><br>🌱 I’m currently learning Ruby<br><br>⚡ Fun fact I think Im Funny ^^
 
