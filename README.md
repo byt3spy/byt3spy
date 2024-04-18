@@ -8,8 +8,6 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">about me (:
 
 ```c++
-
-
 using System;
 using System.Collections.Generic;
 
@@ -17,10 +15,10 @@ class Program
 {
     static void Main()
     {
-        var Champ = new Champ
+        var champ = new Champ
         {
             Introduce = "Hello!",
-            Favorite = new List<string> { "Develop", "Bug Hunting"},
+            Favorites = new List<string> { "Development", "Bug Hunting" },
             MyInfo = new MyInfo
             {
                 Name = "Champ",
@@ -29,24 +27,22 @@ class Program
             }
         };
 
-        string OurPoint = "We Will Grow Up!";
+        string ourPoint = "We Will Grow Up!";
         
-        Console.WriteLine(spidyshop);
-        Console.WriteLine(OurPoint);
+        Console.WriteLine(champ);
+        Console.WriteLine(ourPoint);
     }
 }
 
 class Champ
 {
     public string Introduce { get; set; }
-    public List<string> OurService { get; set; }
-    public List<string> OurTeam { get; set; }
-    public List<string> Favorite { get; set; }
+    public List<string> Favorites { get; set; }
     public MyInfo MyInfo { get; set; }
 
     public override string ToString()
     {
-        return $"Introduce: {Introduce}\nCode: {string.Join(", ", Code)}\nTools: {string.Join(", ", Tools)}\nFavorite: {string.Join(", ", Favorite)}\nMyInfo: {MyInfo}";
+        return $"Introduction: {Introduce}\nFavorites: {string.Join(", ", Favorites)}\n{MyInfo}";
     }
 }
 
@@ -61,7 +57,6 @@ class MyInfo
         return $"Name: {Name}, Age: {Age}, Job: {Job}";
     }
 }
-
 ```
 
 # 💻 Tech Stack:
