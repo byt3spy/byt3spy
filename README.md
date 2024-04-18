@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif](https://blog.exchange.art/content/images/size/w1000/2023/05/2de9f837-1b77-44ce-9295-db722e22d666.gif"  height="450"  ></img>
 # 💫 About Me:
 🔭 I’m currently working on Meta Project<br><br>🌱 I’m currently learning Ruby<br><br>⚡ Fun fact I think Im Funny ^^
 
