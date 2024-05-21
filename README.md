@@ -3,8 +3,6 @@
 🔭 I’m currently working on Meta Project<br><br>🌱 I’m currently learning Ruby<br><br>⚡ Fun fact I think Im Funny ^^
 
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sweetiechamp0) 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">about me (:
 
@@ -16,14 +14,14 @@ class Program
 {
     static void Main()
     {
-        var champ = new Champ
+        var Amir = new Amir
         {
             Introduce = "Hello!",
             Favorites = new List<string> { "Development", "Bug Hunting" },
             MyInfo = new MyInfo
             {
-                Name = "Champ",
-                Age = 21,
+                Name = "Amir",
+                Age = 24,
                 Job = "Network Security Engineer"
             }
         };
